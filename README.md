@@ -59,6 +59,9 @@
 </ul>
 <p>If you like the work, make sure give some stars. If you find any issue, please feel free to create.</p>
 <p>&nbsp;</p>
+<h1>License</h1>
+The MIT License (MIT). Please see <a href="/LICENSE">License</a> File for more information.
+<p>&nbsp;</p>
 <h2>You might like some scripts for your projects (affiliate links)</h2>
 <ul>
 <li><a href="https://1.envato.market/a0j1b">eCommerce script</a></li>
