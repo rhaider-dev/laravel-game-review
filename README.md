@@ -17,6 +17,7 @@
 <h1>Installation</h1>
 <ul>
 <li>clone the repository</li>
+<li>Run "composer install"</li>    
 <li>make an .env file from env.example</li>
 <li>execute "php artisan storage:link"</li>
 <li>execute "php artisan migrate", then "php artisan seed"</li>
