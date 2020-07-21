@@ -17,6 +17,7 @@
 <h1>Installation</h1>
 <ul>
 <li>clone the repository</li>
+<li>Run "composer install"</li>    
 <li>make an .env file from env.example</li>
 <li>execute "php artisan storage:link"</li>
 <li>execute "php artisan migrate", then "php artisan seed"</li>
@@ -58,6 +59,9 @@
 <li><a href="https://voyager.devdojo.com/">Voyager</a></li>
 </ul>
 <p>If you like the work, make sure give some stars. If you find any issue, please feel free to create.</p>
+<p>&nbsp;</p>
+<h1>License</h1>
+The MIT License (MIT). Please see <a href="/LICENSE">License</a> File for more information.
 <p>&nbsp;</p>
 <h2>You might like some scripts for your projects (affiliate links)</h2>
 <ul>
