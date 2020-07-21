@@ -27,3 +27,4 @@ Route::get('/games/category/{slug}','FrontendController@games_category')->name('
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
 });
+
